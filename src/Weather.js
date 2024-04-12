@@ -5,7 +5,7 @@ import axios from "axios";
 export default function Weather() {
   let [city, setCity] = useState(" ");
   let [message, setMessage] = useState(" ");
-  const [loaded, setLoaded] = useState(false);
+  //const [loaded, setLoaded] = useState(false);
   const [weather, setWeather] = useState({});
 
   // function searchSubmit(event) {
@@ -13,7 +13,7 @@ export default function Weather() {
   // }
 
   function showWeather(response) {
-    setLoaded(true);
+    //setLoaded(true);
     //setTemperature();
     console.log(response);
 
