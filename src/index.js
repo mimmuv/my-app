@@ -20,10 +20,7 @@ root.render(
           Miriro.
         </a>{" "}
         See my{" "}
-        <a
-          href="https://65240ec886f6a70008ff8f4a--bejewelled-faun-042079.netlify.app"
-          target="blank"
-        >
+        <a href="https://github.com/mimmuv/my-app" target="blank">
           Github repository test.
         </a>
       </p>
